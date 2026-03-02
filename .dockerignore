@@ -1,16 +1,48 @@
+# Git
 .git
 .gitignore
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.db
-*.sqlite3
-.env
+
+# Virtual environments
 venv/
 env/
 .venv/
-.idea/
-.vscode/
-.ebextensions/
+
+# Logs
+logs/
 *.log
+
+# Training artifacts not needed in production
+artifact/data.csv
+artifact/train.csv
+artifact/test.csv
+
+# CatBoost training metadata
+catboost_info/
+
+# Notebooks
+notebook/
+*.ipynb
+
+# Raw data folders
+data/
+
+# Egg info / packaging
+*.egg-info/
+mlproject.egg-info/
+
+# Temporary files
+tmp/
+*.tsv
+*.json
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
