@@ -17,7 +17,6 @@ The application is fully containerized using Docker and deployed to AWS Elastic 
 **Docker Hub Repository:**  
 https://hub.docker.com/repository/docker/okeyridhi/ml14-app/general
 
----
 
 
 ### Docker Setup
@@ -40,7 +39,6 @@ https://hub.docker.com/repository/docker/okeyridhi/ml14-app/general
 5. Trained model generates prediction  
 6. Result rendered back to UI  
 
----
 
 ### Deployment Flow
 
