@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: okeyridhi/ml14-app:latest
+    ports:
+      - "80:80"
