@@ -8,7 +8,7 @@ The application is fully containerized using Docker and deployed to AWS Elastic 
 
 ## 🚀 Live App
 
-👉 http://student-performance-ml14-app-env.eba-6uh8askm.ap-south-1.elasticbeanstalk.com/
+👉 http://student-performance-ml14-app-env.eba-6uh8askm.ap-south-1.elasticbeanstalk.com/predictdata
 
 ---
 
